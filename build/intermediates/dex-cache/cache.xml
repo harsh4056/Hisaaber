@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Hisaaber\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c8049b6b4b4c4267842b54a2b516201df17488fe">
+        <dex dex="E:\Hisaaber\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_eeb157eaa0d3dbf06cf0d490bf48d4d48daa600e\classes.dex" />
+    </item>
+    <item
+        jar="E:\Hisaaber\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="E:\Hisaaber\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_db1061aa89b536aabbbf538366b41f36923347e7\classes.dex" />
+    </item>
+    <item
+        jar="E:\Hisaaber\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\Hisaaber\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_e52f308d2fbfb55e2b6b90a8651c3e8a50dae451\classes.dex" />
+    </item>
+    <item
+        jar="E:\Hisaaber\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="E:\Hisaaber\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_91e6f0b43553053d17787757919610ab5264f82d\classes.dex" />
+    </item>
+    <item
+        jar="E:\eclipse-jee-mars-1-win32-x86_64\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="E:\Hisaaber\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_ce8bd6e109c4006a53c0ff14283ef6d84d1dc2ec\classes.dex" />
+    </item>
+    <item
+        jar="E:\Hisaaber\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4521b8f0e56375bde2910e0a01c666b9826dc437">
+        <dex dex="E:\Hisaaber\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_70d9ba6af175e57555641fd7a5d8a423c612ea26\classes.dex" />
+    </item>
+
+</items>
